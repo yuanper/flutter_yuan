@@ -6,4 +6,4 @@ A new Flutter application.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-![image text]https://github.com/yuanper/flutter_yuan/blob/master/2.gif
+![Image text](https://github.com/yuanper/flutter_yuan/blob/master/2.gif)
